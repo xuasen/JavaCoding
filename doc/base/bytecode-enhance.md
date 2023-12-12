@@ -1,7 +1,10 @@
-# java字码增强 
+# java字码增强技术
 
-### 字节码是什么
+### 什么是字节码文件
+字节码文件就是java文件通过javac命令编译后产出的后缀是.class的二进制文件，jvm读取之后转化成计算机可以直接运行的机器码。这样的好处就是一处编译，到处可运行，同一份字节码文件，利用jvm可以在不同的系统上运行。
+![Alt text](image-1.png)
+
 ### 字节码与机器码的区别
+
 ### 字节码增强的方式
 
-git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
